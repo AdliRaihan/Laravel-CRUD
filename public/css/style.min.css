@@ -1,0 +1,8 @@
+.info-form{
+    font-size: 12px;
+    padding-left: 12.5px;
+    color: gray;
+}
+.info-form.fatals{
+    color: red;
+}
