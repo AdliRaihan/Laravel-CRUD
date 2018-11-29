@@ -1,9 +1,11 @@
 # About 
 Projects ini hanya berfokus pada database raw query untuk melakukan :
+<ul>
 <li>Create</li>
 <li>Update</li>
 <li>Read</li>
 <li>Delete</li>
+</ul>
 
 <h2>installation</h2>
 <code>php artisan migrate</code>
