@@ -1,7 +1,12 @@
-# Laravel [Instalation]
-<code>
-    php artisan migrate <br>
-    php artisan serve <br>
-</code>
+# About 
+Projects ini hanya berfokus pada database raw query untuk melakukan :
+<li>Create</li>
+<li>Update</li>
+<li>Read</li>
+<li>Delete</li>
 
-<p>This project has never been shared to anyone and if you had some problem let me know : adliraihan001@gmail.com</p>
+#installation
+<code>php artisan migrate</code>
+
+#Contact
+This projects has never shared to anyone , if you have a problem doing migrating / accessing please feel free to ask me at : <i>adliraihan001@gmail.com</i>
